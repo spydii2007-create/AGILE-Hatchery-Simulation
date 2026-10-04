@@ -1,6 +1,6 @@
 # AGILE – Aqua Genesis for Intelligent Lifecycle & Early Prediction
 
-AIoT-based Digital Twin for intelligent shrimp/fish hatchery monitoring.
+AIoT-based Digital Twin for intelligent shrimp hatchery monitoring.
 
 ## Features
 - Digital Twin visualization
